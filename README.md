@@ -1,6 +1,8 @@
 ## Hi there 👋 Im Fiqri Aqias
 
-![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=fiqriaqias&show_icons=true&theme=radial)
+![Statistik GitHub Kamu](https://github-readme-stats-sigma-five.vercel.app/api?username=fiqriaqias&show_icons=true&theme=radial)
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=fiqriaqias&countColor=%237B1E7A)
 
 ## 💫 About Me
 I'm a tech enthusiast who loves diving into new technologies and building cool projects. I'm currently focused on expanding my skills and learning something new every day.
@@ -14,9 +16,11 @@ I'm a tech enthusiast who loves diving into new technologies and building cool p
 - **Tools:** Git, GitHub, VS Code
 
 ## 📬 Connect with me
-- LinkedIn: https://www.linkedin.com/in/m-fiqri-aqias-alfarizi/
-- Email: aqiasalfarizi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-fiqri-aqias-alfarizi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aqiasfq/)
+[![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=black)](https://open.spotify.com/user/b7c3w7j4aw9b3kg22v671ydne?si=a766fd38e76f436b)
 
+##
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <!--
