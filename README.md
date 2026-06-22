@@ -1,4 +1,6 @@
-## Hi there 👋 Im Fiqri Aqias
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+there!+I'm+Fiqri;I'm+a+Tech+Enthusiast;Welcome+to+my+profile!+🚀)
+
+##
 
 ![Statistik GitHub Kamu](https://github-readme-stats-sigma-five.vercel.app/api?username=fiqriaqias&show_icons=true&theme=radial)
 
