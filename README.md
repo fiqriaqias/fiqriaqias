@@ -1,6 +1,6 @@
 ## Hi there 👋 Im Fiqri Aqias
 
-![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radial)
+![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=fiqriaqias&show_icons=true&theme=radial)
 
 ## 💫 About Me
 I'm a tech enthusiast who loves diving into new technologies and building cool projects. I'm currently focused on expanding my skills and learning something new every day.
